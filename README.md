@@ -1,37 +1,24 @@
-# P2HACKS2024 アピールシート 
 
-プロダクト名  
-... 
+> このページを開く [https://okhotsk-hr.github.io/p2hacks_pre16/](https://okhotsk-hr.github.io/p2hacks_pre16/)
 
-コンセプト  
-...  
+## 拡張機能として使用
 
-対象ユーザ  
-...  
+このリポジトリは、MakeCode で **拡張機能** として追加できます。
 
-利用の流れ  
-...  
+* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
+* **新しいプロジェクト** をクリックしてください
+* ギアボタンメニューの中にある **拡張機能** をクリックしてください
+* **https://github.com/okhotsk-hr/p2hacks_pre16** を検索してインポートします。
 
-推しポイント  
-...  
+## このプロジェクトを編集します
 
-スクリーンショット(任意)  
+MakeCode でこのリポジトリを編集します。
 
-## 開発体制  
+* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
+* **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
+* **https://github.com/okhotsk-hr/p2hacks_pre16** を貼り付けてインポートをクリックしてください
 
-役割分担  
-...  
+#### メタデータ (検索、レンダリングに使用)
 
-開発における工夫した点  
-...  
-
-## 開発技術 
-
-利用したプログラミング言語  
-...  
-
-利用したフレームワーク・ライブラリ  
-...  
-
-その他開発に使用したツール・サービス
-...  
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
