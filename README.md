@@ -28,6 +28,8 @@
 開発における工夫した点  
 * GitHubの開発リポジトリ
 * https://github.com/Okhotsk-hr/p2hacks_pre16.git
+* 以上のリポジトリで開発を行った
+* MakeCodeの機能を活用して、フレキシブルにコミット・ブランチ作成をすることができた
 
 
 ## 開発技術 
